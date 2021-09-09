@@ -1,8 +1,6 @@
-
-    <h1>Email & Password strength checking</h1>
-        <h6>Live Site: </h6>
-
-    <h3>password strength criteria:</h3>
+<h1>Email & Password strength checking</h1>
+        <h6>Live Site: https://email-pass.netlify.app/</h6>
+<h3>password strength criteria:</h3>
         <ul>
             <li>at least 8 characters length to a maximum of 15 characters.
                 </li>
@@ -12,5 +10,5 @@
                 <li>at least 1 numeral.</li>
         </ul>
         
-        <p>Overview</p>
-        <img src="img/overview.png" alt="">
+ <p>Overview</p>
+ <img src="img/overview.png" alt="">
